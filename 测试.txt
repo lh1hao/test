@@ -1,9 +1,0 @@
-互联网核心（技术）清单
-Git
-Maven
-Springmvc+spring
-Redis
-Zookeeper
-Activemq
-Spring boot
-Spring cloud
